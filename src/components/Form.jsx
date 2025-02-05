@@ -7,7 +7,7 @@ const Form = ({ setPaymentEmail }) => {
     age: "",
     email: "",
     phone: "",
-   
+  
     batch: "6-7AM",
   });
 
